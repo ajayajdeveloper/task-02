@@ -1,0 +1,59 @@
+.container{
+    background:white;
+}
+
+.row p{
+    text-align:justify;
+}
+
+
+.box{
+  
+    position:relative;
+    top:10px;
+    height:20px;
+    width:70px;
+    background:red;
+  }
+
+  .box1{
+  
+    position:relative;
+    top:10px;
+    height:20px;
+    width:70px;
+    background:red;
+  }
+   
+
+.dark{
+  font-weight: 700;
+}
+
+
+.match{
+  color:red;
+}
+
+.h1{
+  font-size:130px;
+  text-align: center;
+}
+
+.sizee > h1{
+  font-size:130px;
+  text-align: center;
+}
+.headline > h3{
+  font-weight: 600;
+  text-align:justify;
+}
+
+
+
+hr {
+  border: none;
+  height: 1px;
+  color: #333; 
+   background-color: #333; 
+}
